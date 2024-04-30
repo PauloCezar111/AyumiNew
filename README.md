@@ -34,4 +34,4 @@ Se Você Tem Alguma Sugestão De Funções Ou Comandos Para O Bot Siga Os Passos
 - Colaboradores: Vitinho, Lucas, Mauro
 
 ## Licença
-Este projeto está sob a licença [Nome da Licença]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este Projeto Está Sob Licença Do Criador, Não Será Liberado O Seu Arquivo Descriptografado
