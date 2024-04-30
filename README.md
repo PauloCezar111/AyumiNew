@@ -22,16 +22,16 @@ git clone https://github.com/AyumiBotOficial/AyumiNew.git
 4. Espere Instalar As Dependências E Ele Irá Ligar Automaticamente
 
 ## Como Colaborar No Projeto
-Se você gostaria de contribuir com este projeto, por favor siga estes passos:
+Se Você Tem Alguma Sugestão De Funções Ou Comandos Para O Bot Siga Os Passos Abaixo:
 
-1. Faça um fork do projeto
-2. Crie uma nova branch (`git checkout -b feature/nova-feature`)
-3. Faça commit das suas alterações (`git commit -am 'Adicionando uma nova feature'`)
-4. Faça push para a branch (`git push origin feature/nova-feature`)
-5. Crie um novo Pull Request
+1. Entre Em Contato Comigo
+2. Informe Sua Sugestão Detalhadamente 
+3. Espere Ela Ser Aprovada
+4. Caso Seja Aprovada, Virá Em Uma Atualização Do Bot
 
 ## Autores
-- Nome do Autor (@seu_usuario)
+- Criador: Lucas
+- Colaboradores: Vitinho, Lucas, Mauro
 
 ## Licença
 Este projeto está sob a licença [Nome da Licença]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
