@@ -35,3 +35,13 @@ Se Você Tem Alguma Sugestão De Funções Ou Comandos Para O Bot Siga Os Passos
 
 ## Licença
 Este Projeto Está Sob Licença Do Criador, Não Será Liberado O Seu Arquivo Descriptografado
+---
+
+## Contato
+Você pode me encontrar nas seguintes redes sociais:
+
+- **WhatsApp:** [Link para o seu WhatsApp](#)
+- **Instagram:** [Link para o seu Instagram](#)
+- **GitHub:** [Link para o seu GitHub](#)
+
+---
