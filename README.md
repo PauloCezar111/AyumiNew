@@ -31,19 +31,19 @@ cd /sdcard/
 ```
 **4° Comando**
 ```
-git clone https://github.com/Scheyot2/sakura-botv6.git
+git clone https://github.com/AyumiBotOficial/AyumiNew.git
 ```
 **5° Comando**
 ```
-cd /sdcard/sakura-botv6
+cd /sdcard/AyumiNew
 ```
 
 ## Iniciar o Bot  <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
 ```
-sh scheyot.sh
+sh start.sh
 ```
 
-## Gerar um novo QR  <img src="https://user-images.githubusercontent.com/108157095/182053978-d1a08952-4625-4e3f-b469-c8ebe4f22ac8.png" height="25px">
+## Gerar Um Qr Novo  <img src="https://user-images.githubusercontent.com/108157095/182053978-d1a08952-4625-4e3f-b469-c8ebe4f22ac8.png" height="25px">
 ```
-sh qrcode.sh
+Apague A Pasta "Conexão-Divina" E Tente Novamente 
 ```
