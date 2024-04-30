@@ -1,4 +1,4 @@
-# Bem-vindo ao Meu Projeto
+# Bem-vindo ao Meu Projeto ✨
 
 ## Descrição
 Este é um projeto incrível que foi desenvolvido com muito amor e carinho. Aqui você encontrará [insira o que seu projeto faz ou oferece].
