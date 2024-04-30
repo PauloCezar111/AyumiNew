@@ -13,7 +13,7 @@ Esse Projeto Foi Criado Com Muito Esforço E Apoio De Todos Os Colaboradores E P
 Para Fazer A Instalação No Termux, Siga Os Passos Abaixo:
 
 1. Clone este repositório:
-git clone https://github.com/seu_usuario/seu_projeto.git
+git clone https://github.com/AyumiBotOficial/AyumiNew.git
 
 2. Digite: cd /sdcard/AyumiNew
 
@@ -21,7 +21,7 @@ git clone https://github.com/seu_usuario/seu_projeto.git
 
 4. Espere Instalar As Dependências E Ele Irá Ligar Automaticamente
 
-## Como Contribuir
+## Como Colaborar No Projeto
 Se você gostaria de contribuir com este projeto, por favor siga estes passos:
 
 1. Faça um fork do projeto
