@@ -10,7 +10,7 @@ Esse Projeto Foi Criado Com Muito Esforço E Apoio De Todos Os Colaboradores E P
 - Novo Sistema De Level
 
 ## Instalação
-Para utilizar este projeto, basta seguir os passos abaixo:
+Para Fazer A Instalação No Termux, Siga Os Passos Abaixo:
 
 1. Clone este repositório:
 git clone https://github.com/seu_usuario/seu_projeto.git
