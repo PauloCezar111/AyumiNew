@@ -4,9 +4,10 @@
 Esse Projeto Foi Criado Com Muito Esforço E Apoio De Todos Os Colaboradores E Parceria.
 
 ## Funcionalidades
-- Funcionalidade 1: Descrição da funcionalidade.
-- Funcionalidade 2: Descrição da funcionalidade.
-- Funcionalidade 3: Descrição da funcionalidade.
+• Downloads Na Velocidade Da Luz
+• Menus Listas De Fácil Acesso 
+• Sistema De Rpg Otimizado
+• Novo Sistema De Level
 
 ## Instalação
 Para utilizar este projeto, basta seguir os passos abaixo:
