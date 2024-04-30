@@ -39,6 +39,8 @@ Este Projeto Está Sob Licença Do Criador, Não Será Liberado O Seu Arquivo De
 ## Contato
 Você pode me encontrar nas seguintes redes sociais:
 
-- **WhatsApp:** [Link para o seu WhatsApp](#)
-- **Instagram:** [Link para o seu Instagram](#)
-- **GitHub:** [Link para o seu GitHub](#)
+<p align="center">
+  <a href="#"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp"/></a>
+  <a href="#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="#"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
+</p>
