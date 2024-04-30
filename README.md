@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=AYUMI-BOT+V1.0;MELHOR+BOT+DO+MOMENTO;600+COMANDOS">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=AYUMI-BOT+V1.0;FEITA+DO+ZERO;600+COMANDOS">      
 
 <h1 align="center">
 <p>
