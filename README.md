@@ -13,6 +13,7 @@ Esse Projeto Foi Criado Com Muito Esforço E Apoio De Todos Os Colaboradores E P
 Para Fazer A Instalação No Termux, Siga Os Passos Abaixo:
 
 1. Clone este repositório:
+
 git clone https://github.com/seu_usuario/seu_projeto.git
 
 3. Siga as instruções de configuração.
