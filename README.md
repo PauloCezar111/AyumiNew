@@ -1,7 +1,7 @@
 # Bem-vindo ao Meu Projeto ✨
 
 ## Descrição
-Este é um projeto incrível que foi desenvolvido com muito amor e carinho. Aqui você encontrará [insira o que seu projeto faz ou oferece].
+Esse Projeto Foi Criado Com Muito Esforço E Apoio De Todos Os Colaboradores E Parceria.
 
 ## Funcionalidades
 - Funcionalidade 1: Descrição da funcionalidade.
