@@ -15,7 +15,11 @@ Para Fazer A Instalação No Termux, Siga Os Passos Abaixo:
 1. Clone este repositório:
 - git clone https://github.com/seu_usuario/seu_projeto.git
 
-3. Siga as instruções de configuração.
+2. Digite: cd /sdcard/AyumiNew
+
+3. Depois Use: sh instalar.sh E Digite "s"
+
+4. Espere Instalar As Dependências E Ele Irá Ligar Automaticamente
 
 ## Como Contribuir
 Se você gostaria de contribuir com este projeto, por favor siga estes passos:
