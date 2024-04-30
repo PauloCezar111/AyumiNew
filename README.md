@@ -38,12 +38,12 @@ git clone https://github.com/AyumiBotOficial/AyumiNew.git
 cd /sdcard/AyumiNew
 ```
 
-## Iniciar o Bot  <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
+## Iniciar o Bot 
 ```
 sh start.sh
 ```
 
-## Gerar Um Qr Novo  <img src="https://user-images.githubusercontent.com/108157095/182053978-d1a08952-4625-4e3f-b469-c8ebe4f22ac8.png" height="25px">
+## Gerar Um Qr Novo  
 ```
 Apague A Pasta "Conexão-Divina" E Tente Novamente 
 ```
