@@ -2,11 +2,11 @@
 
 <h1 align="center">
 <p>
-<img src= "https://telegra.ph/file/55f28886c57ee6e65682e.jpg" alt="SAKURA BOT" width="720">
+<img src= "https://telegra.ph/file/55f28886c57ee6e65682e.jpg" AYUMI BOT" width="720">
 </p>
 
 <p align="center">
-<a href="#"><img title="BOT MULTI DEVICE" src="https://img.shields.io/badge/BOT MULTI DEVICE-blue?&style=for-the-badge"></a>
+<a href="#"><img title="CONEXÃO MD" src="https://img.shields.io/badge/CONEXÃO MD-blue?&style=for-the-badge"></a>
 </p>
 
 <p align="center">
