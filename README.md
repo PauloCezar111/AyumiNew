@@ -40,7 +40,7 @@ Este Projeto Está Sob Licença Do Criador, Não Será Liberado O Seu Arquivo De
 Você pode me encontrar nas seguintes redes sociais:
 
 <p align="center">
-  <a href="#"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp"/></a>
-  <a href="#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="#"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
+  <a href="https://wa.me/556196697514"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp"/></a>
+  <a href="https://instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://github.com/AyumiBotOficial/AyumiNew"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
 </p>
