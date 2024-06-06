@@ -1,7 +1,13 @@
-CYAN='\033[0;36m'
-while :
+#!bin/bash
+RED='\033[0;31m'
+while : 
 do
-node index.js --code
-sleep 1      
+echo "${RED}[ ! ] INICIANDO O BOT, AGUARDE!"
+echo "${RED}[ ! ] CASO DESEJA COMPRAR A VERSÃO DESCRIPTOGRAFADA!"
+echo "${RED}[ ! ] ENTRE EM CONTATO COM MEU CRIADOR!"
+echo "${RED}[ ! ] +55 61 9669-7514"
+    node start.js --code 
+    sleep 1
+
 done
-#Não Mexa Nesse "--code" Somente Se Quiser Conectar Via QR-Code
+
