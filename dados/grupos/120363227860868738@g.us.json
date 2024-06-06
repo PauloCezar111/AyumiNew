@@ -1,0 +1,66 @@
+[
+  {
+    "grupo": "𖢈 Laboratório Dos Bots",
+    "groupId": "120363227860868738@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "Odelete": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "antictt": false,
+    "msgdodia": false,
+    "soadm": false,
+    "legenda_estrangeiro": "• Sem Descrição",
+    "legenda_documento": "• Sem Descrição",
+    "legenda_video": "• Sem Descrição",
+    "legenda_imagem": "• Sem Descrição",
+    "multiprefix": false,
+    "bemvindo3": false,
+    "autosticker": false,
+    "antibanlink": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "puxadas": false,
+    "antienquete": false,
+    "autochat": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "ausentes": [],
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "• Seja Bem Vindo Ao Nosso Grupo #numerodele#",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "• Seja Bem Vindo Ao Nosso Grupo #numerodele#",
+        "legendasaiu": 0
+      }
+    ],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": 4000
+    }
+  }
+]

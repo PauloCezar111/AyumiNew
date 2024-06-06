@@ -1,0 +1,28 @@
+const cheerio = require("cheerio")
+const axios = require("axios")
+
+function pinterest(q){
+return new Promise(async(resolve,reject) => {
+axios.get('https://br.pinterest.com/search/pins/?autologin=true&q=' + q, {
+headers: {
+"cookie" : "_auth=1; _b=\"AXYngmevd1FOfL9+KrXNr/iSdyHyhi6VWtCocTKQrIONSkGBa2Q1Ak71FEJPDpBva4Q=\"; _pinterest_sess=TWc9PSZuSEZSYm9aTU11d0huMlR5bjlBQjh3ZURaaTIyRmRvVmZsWXVEOXIyd1AydnRJcnZJSW5IUDc0Y0k2K3h4WlRYejBnbThwRDJkWWZXOHBTVkl5cGtYOEtIN2FXNkprWklxSi9sUHFHOVFCck5XTzRBTk9qQ1VsZzZxcXdzNWUxclo4NGM3cTdnWU55dVBOWWVDRmxzejF1MndtaHR4amxaNnhTM2szUUtNS3FDeHpHaXNydzdKeXB4TExEVmFNSE9ZSytabmJFaGNpSk1OU3J2a0NQU2ZVYnE4dVk3ZkJxVjFZOE5FZXg0T2NyOXh6cTNBdzJ1NjNwMDB6T21VZzlabW0vdUJqZkpqZ2trVnpOQmtQNkozdzU3WEhQMFNOK252Vklzenh3QnV2VHUzbS80VUhzZ3NyUm5TRHc4QS8rVTA4R2Y3Uy9TM01rbFFzR1dIbmNucE54WmhIUzkveHBEd1RuaGdjMFZ0bGw1TFNXWVhkUVlodkc3TGdwNGhLTmlRaDRaUHVQZ1hSNzU1bXhadWlNOUJyYTZxNVh4TWZVclBncGxGMTlpdkVhb2ZJRkdRai9jN3JkNmZDWHBOYXUvVnJPVFo4VVRpUUNJZ2thQ3B5aDFHUU1xNk10N01uN0R4TUZ2TWtqL1VFdUx5dGtrUm40VDFma2VvMHBhM3BSbWRSTmdmRHdFZ29RVEIrOEhZNmhyNmFmQmZwbWZkdFhQSUkrMkd0ajNkS1RubEdCcXFiRkQydHoxc3lqNXNneTg1VCszckZGVEVCWVJCYXdwRVRMeS96OU5qS1gzRWVJMEZpSVYyMWt5bEl3SWg5Q0VjS0RhdVd5Zk5qaXMxaUZPUVVZd2NWNmZSTFZ0U0dxSEhISkhoeEpLUFMydWxmWkZtNXlxa3dERmtPUUZlUFRkUFlTdU9KYStCSVpsYVlSRk1qbHpQVXRhUG9CVTN0aFFzYStaaHk2L3h6T2lvbnRhMjI5L1FCRWpFbDA0SmZ3bkRkTVd5aHVtaHpCNGdlQlVHNVlISHlPTmxneXI3M3kxTEJBbXlyd2pwYWIwTjAraUxsZitDTTY3TUZNaG5TbXJZUklUdHhwNFFtWUR0Wng2akZOQ1dMU3MybmM4VTZtc2tpS204eVdHSUhjTlRtQUw3UENwQmhlUkdBOVdkTi9nQmdSMVFDdVdyYlpOMW5Za0ZreXB3WGdEYStaZmpwOFZ4Ykl6aS9jZ091UVMvZ2tiOEhobTFXK3V4dmZIKzhrNWJXbk5xRmNONld1SlQreHRRRkpQd2N2QjYxQnF4VWVPczRxWnpnWW8xallLSDVZaEZnazBUc2JPUk1NZ2NyT3ZpU1g3L0dKMERkZDBaaVdwRDhEWWJZSWdOZDkwbWVHRFdHZ28yYUtMcGFDWWphQVdHZjRmZUR3eWY2alAwYkl4RlFudnpseFRtcHNrdENnVjVVZnk4MzgrS1c0ZDQzY3dUVG9teFdQSDdITW9WbnZBVC9qdktaN0FzMjNmVlpmTnoxd2JjSGNVclNjL2xqQ2ZrYzYzTGE0Vlc0NlBjTGF0WE92U3V4SHBvMEpzV2U4OG1NUkVYK1dSSitBbXlVdk9OVUpsd2RJS3RtWk9hRlhFZnBVT0MvOFd3bHpaS3dVVDNSM3JlOE15SE8wS1BrQlpNd1JtanVMNHI1MCt5Z2VtSVk3d1VPY1hVUUZDOU1jY01MWWhJeHgzOXZtSDZnVGhiR0dLR21PWTV1SHl2OCsyb3gxMmJiM1I4UDRmaEdiWjlwejlaNCtQc3RUL1hjYzYmR0JhemNCc3lwekFBWXY4ZmcvUWQvKzZBM1ZZPQ==; _ir=0"
+}
+}).then(({ data }) => {
+const $ = cheerio.load(data)
+const result = [];
+const hasil = [];
+$('div > a').get().map(b => {
+const link = $(b).find('img').attr('src')
+result.push(link)
+});
+result.forEach(v => {
+if(v == undefined) return
+hasil.push(v.replace(/236/g,'736'))
+})
+hasil.shift();
+resolve(hasil)
+})
+})
+}
+
+module.exports.pinterest = pinterest

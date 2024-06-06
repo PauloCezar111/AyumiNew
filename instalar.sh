@@ -19,9 +19,9 @@ apt install nodejs-lts -y
 apt install ffmpeg -y
 apt install wget -y 
 apt install git -y
-yarn install
+npm install --no-bin-links 
 echo $GREEN"As Dependências Foram Instaladas Com Sucesso! Irei Iniciar O Bot Agora!"
-npm start
+sh start.sh --code
 fi
 if [ "$inp" = "n" ]; then
     echo $RED"Certo! Não Irei Instalar As Dependências! Se Mata"

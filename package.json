@@ -27,8 +27,8 @@
   "main": "ayumi.js",
   "devDependencies": {},
   "scripts": {
-    "start": "sh start.sh",
-    "test": "node index.js"
+    "start": "sh start.sh --code",
+    "test": "node index.js --code"
   },
   "keywords": [
     "BOT"

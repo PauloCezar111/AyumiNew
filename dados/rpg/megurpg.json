@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "556196697514@s.whatsapp.net",
+    "gpid": "120363227860868738@g.us",
+    "hrg": "00:10",
+    "drg": "06/06",
+    "nome": "⸙|ℓҡ'ᰔ",
+    "namebank": "BTG Pactual",
+    "pixD": 5,
+    "pixL": 100,
+    "limiteC": 15,
+    "horaC": "00",
+    "diaC": "06",
+    "mC": "06",
+    "limiteTh": 3,
+    "hrT": "00",
+    "limiteTd": 24,
+    "diaT": "06",
+    "mT": "06",
+    "money": 100
+  },
+  {
+    "id": "5513997015765@s.whatsapp.net",
+    "gpid": "120363227860868738@g.us",
+    "hrg": "00:10",
+    "drg": "06/06",
+    "nome": "Gwen Bot Oficial",
+    "namebank": "Banco Original",
+    "pixD": 5,
+    "pixL": 100,
+    "limiteC": 15,
+    "horaC": "00",
+    "diaC": "06",
+    "mC": "06",
+    "limiteTh": 3,
+    "hrT": "00",
+    "limiteTd": 24,
+    "diaT": "06",
+    "mT": "06",
+    "money": 100
+  }
+]

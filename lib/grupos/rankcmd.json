@@ -1,0 +1,498 @@
+[
+  {
+    "cmd": "rankcmd",
+    "usado": 102
+  },
+  {
+    "cmd": "attp",
+    "usado": 122
+  },
+  {
+    "cmd": "attp1",
+    "usado": 8
+  },
+  {
+    "cmd": "nomebot",
+    "usado": 2
+  },
+  {
+    "cmd": "nickdono",
+    "usado": 2
+  },
+  {
+    "cmd": "totalcmd",
+    "usado": 4
+  },
+  {
+    "cmd": "pescar",
+    "usado": 26
+  },
+  {
+    "cmd": "cassino",
+    "usado": 3
+  },
+  {
+    "cmd": "ping",
+    "usado": 52
+  },
+  {
+    "cmd": "gerarcpf",
+    "usado": 1
+  },
+  {
+    "cmd": "gerarnmr",
+    "usado": 1
+  },
+  {
+    "cmd": "modozoeira",
+    "usado": 3
+  },
+  {
+    "cmd": "antilink",
+    "usado": 4
+  },
+  {
+    "cmd": "play",
+    "usado": 2350
+  },
+  {
+    "cmd": "akinator",
+    "usado": 2
+  },
+  {
+    "cmd": "setprefix",
+    "usado": 6
+  },
+  {
+    "cmd": "wikipedia",
+    "usado": 2
+  },
+  {
+    "cmd": "autoresposta",
+    "usado": 10
+  },
+  {
+    "cmd": "figuemoji",
+    "usado": 2
+  },
+  {
+    "cmd": "figumeme",
+    "usado": 1
+  },
+  {
+    "cmd": "figuanime",
+    "usado": 2
+  },
+  {
+    "cmd": "figucoreana",
+    "usado": 1
+  },
+  {
+    "cmd": "figudesenho",
+    "usado": 1
+  },
+  {
+    "cmd": "figufunny",
+    "usado": 1
+  },
+  {
+    "cmd": "figurinhas",
+    "usado": 1
+  },
+  {
+    "cmd": "novidades",
+    "usado": 1
+  },
+  {
+    "cmd": "dados",
+    "usado": 3
+  },
+  {
+    "cmd": "listaon",
+    "usado": 15
+  },
+  {
+    "cmd": "bot",
+    "usado": 6
+  },
+  {
+    "cmd": "liston",
+    "usado": 7
+  },
+  {
+    "cmd": "gemini",
+    "usado": 6
+  },
+  {
+    "cmd": "gnews",
+    "usado": 9
+  },
+  {
+    "cmd": "criador",
+    "usado": 1
+  },
+  {
+    "cmd": "test",
+    "usado": 10
+  },
+  {
+    "cmd": "sorteiorpg",
+    "usado": 1
+  },
+  {
+    "cmd": "sorteiocoin",
+    "usado": 20
+  },
+  {
+    "cmd": "sorteio",
+    "usado": 4
+  },
+  {
+    "cmd": "carteira",
+    "usado": 17
+  },
+  {
+    "cmd": "pensador",
+    "usado": 5
+  },
+  {
+    "cmd": "playlist",
+    "usado": 2
+  },
+  {
+    "cmd": "amazon",
+    "usado": 4
+  },
+  {
+    "cmd": "igdl",
+    "usado": 5
+  },
+  {
+    "cmd": "pinterestt",
+    "usado": 5
+  },
+  {
+    "cmd": "xvideos",
+    "usado": 2
+  },
+  {
+    "cmd": "repo",
+    "usado": 3
+  },
+  {
+    "cmd": "wallpaper",
+    "usado": 4
+  },
+  {
+    "cmd": "dalle",
+    "usado": 5
+  },
+  {
+    "cmd": "modorpg",
+    "usado": 3
+  },
+  {
+    "cmd": "cases",
+    "usado": 1
+  },
+  {
+    "cmd": "packgirl",
+    "usado": 2
+  },
+  {
+    "cmd": "addkey",
+    "usado": 2
+  },
+  {
+    "cmd": "nome",
+    "usado": 2
+  },
+  {
+    "cmd": "menuvip",
+    "usado": 1
+  },
+  {
+    "cmd": "menu",
+    "usado": 39
+  },
+  {
+    "cmd": "x9visuunica",
+    "usado": 1
+  },
+  {
+    "cmd": "sairpg",
+    "usado": 3
+  },
+  {
+    "cmd": "registrar",
+    "usado": 3
+  },
+  {
+    "cmd": "gpt",
+    "usado": 15
+  },
+  {
+    "cmd": "bard",
+    "usado": 5
+  },
+  {
+    "cmd": "ia",
+    "usado": 2
+  },
+  {
+    "cmd": "lyrics",
+    "usado": 5
+  },
+  {
+    "cmd": "x9",
+    "usado": 3
+  },
+  {
+    "cmd": "listkey",
+    "usado": 3
+  },
+  {
+    "cmd": "s",
+    "usado": 1
+  },
+  {
+    "cmd": "antiporno",
+    "usado": 5
+  },
+  {
+    "cmd": "blocklist",
+    "usado": 1
+  },
+  {
+    "cmd": "cpf",
+    "usado": 6
+  },
+  {
+    "cmd": "sermembro",
+    "usado": 1
+  },
+  {
+    "cmd": "casar",
+    "usado": 2
+  },
+  {
+    "cmd": "minhadupla",
+    "usado": 3
+  },
+  {
+    "cmd": "divorciar",
+    "usado": 1
+  },
+  {
+    "cmd": "bemvindo",
+    "usado": 1
+  },
+  {
+    "cmd": "listavip",
+    "usado": 2
+  },
+  {
+    "cmd": "addvip",
+    "usado": 1
+  },
+  {
+    "cmd": "gerarkeyvip",
+    "usado": 2
+  },
+  {
+    "cmd": "rankativo",
+    "usado": 1
+  },
+  {
+    "cmd": "rankinativo",
+    "usado": 1
+  },
+  {
+    "cmd": "ranklevel",
+    "usado": 4
+  },
+  {
+    "cmd": "leveling",
+    "usado": 5
+  },
+  {
+    "cmd": "level",
+    "usado": 7
+  },
+  {
+    "cmd": "testg",
+    "usado": 49
+  },
+  {
+    "cmd": "startrivia",
+    "usado": 61
+  },
+  {
+    "cmd": "vasco",
+    "usado": 2
+  },
+  {
+    "cmd": "ytmp3",
+    "usado": 2
+  },
+  {
+    "cmd": "playdoc",
+    "usado": 3
+  },
+  {
+    "cmd": "encerrar",
+    "usado": 5
+  },
+  {
+    "cmd": "me",
+    "usado": 2
+  },
+  {
+    "cmd": "login",
+    "usado": 6
+  },
+  {
+    "cmd": "rpglistgp",
+    "usado": 2
+  },
+  {
+    "cmd": "tiktokstalk",
+    "usado": 1
+  },
+  {
+    "cmd": "antipv",
+    "usado": 2
+  },
+  {
+    "cmd": "msgdodia",
+    "usado": 1
+  },
+  {
+    "cmd": "onlys",
+    "usado": 3
+  },
+  {
+    "cmd": "fechar-abrirgp",
+    "usado": 5
+  },
+  {
+    "cmd": "grupo",
+    "usado": 1
+  },
+  {
+    "cmd": "catmeme",
+    "usado": 2
+  },
+  {
+    "cmd": "pescaria",
+    "usado": 7
+  },
+  {
+    "cmd": "minerar",
+    "usado": 6
+  },
+  {
+    "cmd": "explorar",
+    "usado": 17
+  },
+  {
+    "cmd": "infogp",
+    "usado": 2
+  },
+  {
+    "cmd": "atah",
+    "usado": 1
+  },
+  {
+    "cmd": "waifu",
+    "usado": 6
+  },
+  {
+    "cmd": "pix",
+    "usado": 10
+  },
+  {
+    "cmd": "gerargc",
+    "usado": 7
+  },
+  {
+    "cmd": "attah",
+    "usado": 1
+  },
+  {
+    "cmd": "verificado",
+    "usado": 3
+  },
+  {
+    "cmd": "ip",
+    "usado": 2
+  },
+  {
+    "cmd": "addprefixo",
+    "usado": 6
+  },
+  {
+    "cmd": "multiprefixo",
+    "usado": 5
+  },
+  {
+    "cmd": "tst",
+    "usado": 1
+  },
+  {
+    "cmd": "call",
+    "usado": 2
+  },
+  {
+    "cmd": "playmix",
+    "usado": 8
+  },
+  {
+    "cmd": "recarga",
+    "usado": 2
+  },
+  {
+    "cmd": "buycase",
+    "usado": 8
+  },
+  {
+    "cmd": "arquivos",
+    "usado": 4
+  },
+  {
+    "cmd": "yts",
+    "usado": 4
+  },
+  {
+    "cmd": "tiktoksearch",
+    "usado": 3
+  },
+  {
+    "cmd": "seradm",
+    "usado": 6
+  },
+  {
+    "cmd": "botoes",
+    "usado": 6
+  },
+  {
+    "cmd": "autosticker",
+    "usado": 2
+  },
+  {
+    "cmd": "antiimg",
+    "usado": 1
+  },
+  {
+    "cmd": "antivid",
+    "usado": 1
+  },
+  {
+    "cmd": "antilinkgp",
+    "usado": 1
+  },
+  {
+    "cmd": "contacts",
+    "usado": 4
+  }
+]
