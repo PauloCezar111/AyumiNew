@@ -35,7 +35,7 @@ git clone https://github.com/AyumiBotOficial/AyumiNew.git
 ```
 **5° Comando**
 ```
-cd /sdcard/AyumiNew
+cd /sdcard/AyumiNew && npm install --no-bin-links 
 ```
 
 ## Iniciar o Bot 
